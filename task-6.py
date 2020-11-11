@@ -7,4 +7,3 @@ def max_num(num1, num2, num3):
         if(num > max_nm):
             max_nm = num
     return max_nm
-print(max_num(100,25,3))
